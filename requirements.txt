@@ -4,3 +4,4 @@ pyspark==3.2.1
 tensorflow
 numpy
 beautifulsoup4==4.0.1
+Django
