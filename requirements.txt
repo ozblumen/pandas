@@ -5,3 +5,4 @@ tensorflow
 numpy
 beautifulsoup4==4.0.1
 Django
+collective.ckeditor==4.3.0b2
