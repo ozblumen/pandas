@@ -7,3 +7,4 @@ beautifulsoup4==4.0.1
 Django
 collective.ckeditor==4.3.0b2
 azure-cognitiveservices-language-textanalytics==0.2.0
+ a-poem==0.12.3
