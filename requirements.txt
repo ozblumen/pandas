@@ -1,10 +1,10 @@
-pandas==1.4.0
-Flask==2.0.2
-pyspark==3.2.1
-tensorflow
-numpy
-beautifulsoup4==4.0.1
-Django
-collective.ckeditor==4.3.0b2
-azure-cognitiveservices-language-textanalytics==0.2.0
- a-poem==0.12.3
+pandas==1.0.0
+#Flask==2.0.2
+#pyspark==3.2.1
+#tensorflow
+#numpy
+#beautifulsoup4==4.0.1
+#Django
+#collective.ckeditor==4.3.0b2
+#azure-cognitiveservices-language-textanalytics==0.2.0
+#a-poem==0.12.3
