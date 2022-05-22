@@ -1,7 +1,7 @@
 #robyn==0.11.0
 #simsapa==0.1.7.dev0
 #pandas==1.0.0
-Flask==2.0.2
+Flask[asgiref]==2.0.2
 #pyspark==3.2.1
 #tensorflow
 #numpy
