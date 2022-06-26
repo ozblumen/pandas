@@ -11,4 +11,5 @@ Flask[asgiref]==2.0.2
 #azure-cognitiveservices-language-textanalytics==0.2.0
 #a-poem==0.12.3
 #ccxt==1.10.480
-cleverbox==0.4.4
+#cleverbox==0.4.4
+pyf.services==2.0
