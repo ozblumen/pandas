@@ -14,4 +14,5 @@ Flask[asgiref]==2.0.2
 #cleverbox==0.4.4
 #pyf.services==2.0
 #cgat==0.1
+cronq
 cronq==0.0.29
