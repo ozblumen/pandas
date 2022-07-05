@@ -19,3 +19,4 @@ cronq==0.0.29
 jijmodeling==0.8.5
 pl-nightly==0.13.8.20220116.1 #redis not found
 leadguru-common==0.57.0
+perceptilabs==0.11.10
