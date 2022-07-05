@@ -21,3 +21,4 @@ pl-nightly==0.13.8.20220116.1 #redis not found
 leadguru-common==0.57.0
 perceptilabs==0.11.10
 ocrd==0.15.1
+lusid-sdk==0.11.3080
