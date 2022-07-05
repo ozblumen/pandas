@@ -16,3 +16,4 @@ Flask[asgiref]==2.0.2
 #cgat==0.1
 cronq
 cronq==0.0.29
+jijmodeling==0.8.5
